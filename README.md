@@ -1,4 +1,8 @@
-# Goal
+# EMNIST-recognizer
+Handwritten Character Recognition using SVM, NN and CNN
+
+
+## Goal
 1. Develop a handwritten character recognition model using the [EMNIST] (https://www.nist.gov/itl/iad/image-group/emnist-dataset)dataset 
 2. Explore different Machine Learning Algorithms:
     - Support Vector Machine

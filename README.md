@@ -1,9 +1,9 @@
 # Goal
 1. Develop a handwritten character recognition model using the [EMNIST] (https://www.nist.gov/itl/iad/image-group/emnist-dataset)dataset 
 2. Explore different Machine Learning Algorithms:
-  1. Support Vector Machine
-  2. Simple Feedforward Neural Networks
-  3. Convolutional Neural Networks
+  - Support Vector Machine
+  - Simple Feedforward Neural Networks
+  - Convolutional Neural Networks
 
 ## Files
 - __mnist folder__: MNIST Datasets

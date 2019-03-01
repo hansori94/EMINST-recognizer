@@ -1,5 +1,5 @@
 # MNIST
-
+Exploring different Machine Learning models - SVM, simple feedforward neural networks and Convolutional neural networks - to build a image 
 
 ## Files
 - __mnist folder__: MNIST Datasets

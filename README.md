@@ -1,5 +1,9 @@
-# MNIST
-Exploring different Machine Learning models - SVM, simple feedforward neural networks and Convolutional neural networks - to build a image 
+# Goal
+1. Develop a handwritten character recognition model using the EMNIST dataset https://www.nist.gov/itl/iad/image-group/emnist-dataset
+2. Explore different Machine Learning Algorithms:
+  1. Support Vector Machine
+  2. Simple Feedforward Neural Networks
+  3. Convolutional Neural Networks
 
 ## Files
 - __mnist folder__: MNIST Datasets

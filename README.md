@@ -1,8 +1,8 @@
 # MNIST
-CS4701
+
 
 ## Files
-- mnist folder: MNIST Datasets
+- __mnist folder__: MNIST Datasets
 
 mnist_letter : contains EMNISt handwritten letter files and CSV files
 

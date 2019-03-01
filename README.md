@@ -2,7 +2,7 @@
 CS4701
 
 ## Files
-__mnist folder__ contains MNIST digit files and CSVs
+- mnist folder: MNIST Datasets
 
 mnist_letter : contains EMNISt handwritten letter files and CSV files
 

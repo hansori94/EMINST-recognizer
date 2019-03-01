@@ -12,14 +12,14 @@ Handwritten Character Recognition using SVM, NN and CNN
 ## Files
 - __mnist folder__: MNIST Datasets
 
-- __mnist_letter__ : contains EMNISt handwritten letter files and CSV files
+- __mnist_letter__ : EMNIST Datasets 
 
-- __KERAS_MNIST_letters.ipynb__ : KERAS Feed Forward Neural Network part1)
+- __letter-mnist-tocsv.ipynb__ :Downloads and imports data
 
-- __KERAS_MNIST_letters_CNN.ipynb__ : Keras Convolutional Feed Forward Neural Network
+- __KERAS_MNIST_letters.ipynb__ : Simple NN
 
-- __NN.ipynb: Keras Feed Forward Neural network part2) final version
+- __NN.ipynb__ : Simple NN (final version)
 
-- __SVM_MNIST_letters.ipynb__ : Support Vector Machine model
+- __KERAS_MNIST_letters_CNN.ipynb__ : CNN
 
-- __letter-mnist-tocsv.ipynb__ :downloading and importing data
+- __SVM_MNIST_letters.ipynb__ : Support Vector Machine 
